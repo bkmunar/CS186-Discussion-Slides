@@ -6,4 +6,5 @@
 #### Section 4: Buffer Replacement Policies and File Organization
 #### Section 5: Indexes and Tree-Structured Indexes
 #### Section 6: Relational Algebra, Entity-Relationship Diagrams, and Functional Dependencies
+#### Section 7: Query Optimization
 
