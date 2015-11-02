@@ -7,4 +7,5 @@
 #### Section 5: Indexes and Tree-Structured Indexes
 #### Section 6: Relational Algebra, Entity-Relationship Diagrams, and Functional Dependencies
 #### Section 7: Query Optimization
+#### Section 8: Transactions and Concurrency Control
 
