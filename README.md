@@ -8,4 +8,4 @@
 #### Section 6: Relational Algebra, Entity-Relationship Diagrams, and Functional Dependencies
 #### Section 7: Query Optimization
 #### Section 8: Transactions and Concurrency Control
-
+#### Section 9: Lock Granularity and TO-MVCC
