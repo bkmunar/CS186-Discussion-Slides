@@ -9,3 +9,4 @@
 #### Section 7: Query Optimization
 #### Section 8: Transactions and Concurrency Control
 #### Section 9: Lock Granularity and TO-MVCC
+#### Section 9: Logging and Recovery
